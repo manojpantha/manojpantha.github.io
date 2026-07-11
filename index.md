@@ -1,0 +1,25 @@
+## Manoj Pantha 
+Hello Everyone, I am form Nepal working as Senior Engineer in [Department of Water Resources and Irrigation](https://dwri.gov.np/) , Nepal
+
+Water Resources Engineer and Energy & Environmental Management Specialist with more than 15 years of experience in irrigation engineering, renewable energy, river basin management, climate-resilient infrastructure, renewable energy applications, and sustainable natural resource management. My interdisciplinary background combines water resources engineering, environmental management, Irrigation - energy system modelling, GIS-based spatial analysis, and sustainability assessment.
+
+I have extensive experience applying advanced modelling tools including WEAP, SWAT, LEAP, HEC-RAS, HEC-HMS, ArcGIS, QGIS, CROPWAT and EnergyPLAN to address complex challenges at the water-energy-food-environment nexus. My research interests focus on sustainable agrifood systems, ecosystem services, climate adaptation, resource efficiency, and integrated approaches for achieving resilient and sustainable development.
+
+__MY RESEARCH INTERESTS__
+
+•	Water-Energy-Food (WEF) Nexus 
+•	Sustainable Agrifood Systems 
+•	Climate Change Adaptation and Resilience 
+•	Sustainable Irrigation and Agricultural Water Management 
+•	Integrated River Basin Management 
+•	Renewable Energy for Agriculture 
+•	Solar-Powered Irrigation Systems 
+•	Environmental Sustainability Assessment 
+•	GIS and Spatial Decision Support Systems 
+•	Nature-Based Solutions 
+•	Sustainable Rural Development
+
+
+#### Contact Information
+* Email - mpantha059@gmail.com
+  
