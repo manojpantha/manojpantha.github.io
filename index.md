@@ -5,7 +5,7 @@ Hello Everyone, I am from Nepal working as Senior Engineer in [Department of Wat
 
 Water Resources Engineer and Energy & Environmental Management Specialist with more than 15 years of experience in irrigation engineering, renewable energy, river basin management, climate-resilient infrastructure, renewable energy applications, and sustainable natural resource management. My interdisciplinary background combines water resources engineering, environmental management, Irrigation - energy system modelling, GIS-based spatial analysis, and sustainability assessment.
 
-I have extensive experience applying advanced modelling tools including WEAP, SWAT, LEAP, HEC-RAS, HEC-HMS, ArcGIS, QGIS, CROPWAT and EnergyPLAN to address complex challenges at the water-energy-food-environment nexus. My research interests focus on sustainable agrifoo!d systems, ecosystem services, climate adaptation, resource efficiency, and integrated approaches for achieving resilient and sustainable development.
+I have extensive experience applying advanced modelling tools including WEAP, SWAT, LEAP, HEC-RAS, HEC-HMS, ArcGIS, QGIS, CROPWAT and EnergyPLAN to address complex challenges at the water-energy-food-environment nexus. My research interests focus on sustainable agrifood systems, ecosystem services, climate adaptation, resource efficiency, and integrated approaches for achieving resilient and sustainable development.
 
 
 
