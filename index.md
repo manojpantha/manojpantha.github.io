@@ -1,5 +1,5 @@
 ## Manoj Pantha 
-<img src="small_manoj.JPG" alt="Manoj Pantha!" width="20%" align="right">
+<img src="img/small_manoj.JPG" alt="Manoj Pantha!" width="20%" align="right">
 
 Hello Everyone, I am from Nepal working as Senior Engineer in [Department of Water Resources and Irrigation](https://dwri.gov.np/). 
 
