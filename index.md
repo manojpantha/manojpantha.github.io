@@ -29,6 +29,9 @@ __MY RESEARCH INTERESTS__
 * Master of Civil Engineering in Water Resources Engineering
 * Bachelor Degree in Civil Engineering
 
+### Some Favorite Maps
+<embed type = "text/html" src="/img/Singhadurbar.html" height= "650" width ="850">
+
 #### Contact Information
 * Email - mpantha059@gmail.com
   
