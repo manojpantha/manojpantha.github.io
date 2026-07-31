@@ -35,6 +35,8 @@ __MY RESEARCH INTERESTS__
 ## Plot of Boulder Temperature
 <embed type = "text/html" src="/img/boulder_plot.html" height= "650" width ="850">
 
+## Plot of Kathmandu Rainfall with CHIRPS Monthly data
+<embed type = "text/html" src="/img/nepal_rainfall_plot.html" height= "650" width ="850">
 #### Contact Information
 * Email - mpantha059@gmail.com
   
