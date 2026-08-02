@@ -39,7 +39,7 @@ __MY RESEARCH INTERESTS__
 <embed type = "text/html" src="/img/nepal_rainfall_plot.html" height= "650" width ="850">
 
 ## Plot of NDVI Difference
-<embed type = "text/html" src="/img/ndvi_difference_plot.html" height= "650" width ="850">
+<embed type = "text/html" src="/ndvi_difference_plot.html" height= "650" width ="850">
 
 #### Contact Information
 * Email - mpantha059@gmail.com
