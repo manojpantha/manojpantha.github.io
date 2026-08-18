@@ -45,7 +45,9 @@ __MY RESEARCH INTERESTS__
 
 <embed type = "text/html" src="/img/office_map.html" height= "650" width ="850">
 
+## Office Basin Area2
 
+<embed type = "text/html" src="https://drive.google.com/file/d/15F-6p66wa3ka9b55lfX7s0db2ud1o1dx/view?usp=sharing" height= "650" width ="850">
 
 #### Contact Information
 * Email - mpantha059@gmail.com
