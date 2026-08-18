@@ -43,7 +43,9 @@ __MY RESEARCH INTERESTS__
 
 ## Office Basin Area
 
-<embed type = "text/html" src="/img/office_map.html" height= "650" width ="850">
+<embed type = "text/html" src="dwri.html" height= "650" width ="850">
+
+
 
 <a href="https://htmlpreview.github.io/?https://github.com/manojpantha/manojpantha.github.io/releases/download/v1.0/combined_office_map.html" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-family: Arial, sans-serif;">🌍 View Interactive Office Basin Map</a>
 
