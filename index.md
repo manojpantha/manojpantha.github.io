@@ -41,6 +41,12 @@ __MY RESEARCH INTERESTS__
 ## Plot of NDVI Difference
 <embed type = "text/html" src="/ndvi_difference_plot.html" height= "650" width ="850">
 
+## Office Basin Area
+
+<embed type = "text/html" src="/img/Basin_office_area.geojson" height= "650" width ="850">
+
+
+
 #### Contact Information
 * Email - mpantha059@gmail.com
   
