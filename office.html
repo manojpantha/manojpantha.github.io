@@ -29,12 +29,13 @@
                 mapTypeId: "roadmap"
             });
 
-            // 2. Format your Google Drive file URL for direct download (fixed ID string)
-            const fileId = "1ohcxO_rf3Gk6-7IJSnKzQDO15QbdT4Zz";
-            const driveGeoJsonUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
+            // Replace the previous Google Drive URL with this Raw GitHub URL
+const geoJsonUrl = "https://raw.githubusercontent.com/manojpantha/manojpantha.github.io/main/img/Basin_office_area.geojson";
+            
+            
 
             // 3. Load the GeoJSON file into the Google Maps Data Layer
-            map.data.loadGeoJson(driveGeoJsonUrl);
+            map.data.loadGeoJson(geoJsonUrl);
 
             // 4. Style your GeoJSON features
             map.data.setStyle({
