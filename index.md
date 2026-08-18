@@ -43,7 +43,7 @@ __MY RESEARCH INTERESTS__
 
 ## Office Basin Area
 
-<embed type = "text/html" src="dwri.html" height= "650" width ="850">
+<embed type = "text/html" src="/dwri.html" height= "650" width ="850">
 
 
 
