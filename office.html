@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GeoJSON from Google Drive on Google Maps</title>
+    <title>GeoJSON on Google Maps</title>
     <style>
         #map {
             height: 100vh;
@@ -22,18 +22,16 @@
         let map;
 
         function initMap() {
-            // 1. Initialize the Google Map background
+            // 1. Initialize map centered over Nepal (where your office area is)
             map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 4,
-                center: { lat: 37.0902, lng: -95.7129 },
+                zoom: 12, 
+                center: { lat: 27.7172, lng: 85.3240 }, // Approximate center of Kathmandu/Nepal (adjust if needed)
                 mapTypeId: "roadmap"
             });
 
-            // Replace the previous Google Drive URL with this Raw GitHub URL
-const geoJsonUrl = "https://raw.githubusercontent.com/manojpantha/manojpantha.github.io/main/img/Basin_office_area.geojson";
+            // 2. Your Raw GitHub GeoJSON file URL
+            const geoJsonUrl = "https://raw.githubusercontent.com/manojpantha/manojpantha.github.io/main/img/Basin_office_area.geojson";
             
-            
-
             // 3. Load the GeoJSON file into the Google Maps Data Layer
             map.data.loadGeoJson(geoJsonUrl);
 
@@ -46,7 +44,7 @@ const geoJsonUrl = "https://raw.githubusercontent.com/manojpantha/manojpantha.gi
         }
     </script>
 
-  //  <!-- Load the Google Maps JavaScript API with your API key -->
+    <!-- Load the Google Maps JavaScript API with your API key -->
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQFFCCiim3TYARvBpbtziqMI9ZPMVp0jw&callback=initMap">
     </script>
