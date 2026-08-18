@@ -48,7 +48,7 @@
 
     {/* Load the Google Maps JavaScript API with your API key */}
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQFFCCiim3TYARvBpbtziqMI9ZPMVp0jw&callback=initMap">
     </script>
 
 </body>
